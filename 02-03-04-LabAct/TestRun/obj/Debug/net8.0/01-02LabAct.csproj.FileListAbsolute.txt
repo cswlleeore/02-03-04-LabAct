@@ -1,0 +1,14 @@
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\bin\Debug\net8.0\01-02LabAct.exe
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\bin\Debug\net8.0\01-02LabAct.deps.json
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\bin\Debug\net8.0\01-02LabAct.runtimeconfig.json
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\bin\Debug\net8.0\01-02LabAct.dll
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\bin\Debug\net8.0\01-02LabAct.pdb
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.AssemblyInfoInputs.cache
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.AssemblyInfo.cs
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.dll
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\refint\01-02LabAct.dll
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.pdb
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\01-02LabAct.genruntimeconfig.cache
+C:\Users\johnb\source\repos\02-03-04-LabAct\TestRun\obj\Debug\net8.0\ref\01-02LabAct.dll
